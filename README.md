@@ -24,8 +24,9 @@ Para executar esta simulação, você precisará de um navegador web. Não é ne
 
 Clone o repositório:
 
-git clone https://github.com/SeuUsuario/NomeDoSeuRepositorio.gti
-cd NomeDoSeuRepositorio
+git clone https://github.com/ElPrimmo0/El-Luchadorftgyhjhdghfndrtyhjsdrtyh0.git
+cd El-Luchadorftgyhjhdghfndrtyhjsdrtyh0
+
 
 (Substitua SeuUsuario/NomeDoSeuRepositorio pelo seu próprio usuário e nome do repositório no GitHub.)
 
